@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02425aff.chunk.css",
+    "main.js": "/static/js/main.933461a2.chunk.js",
+    "main.js.map": "/static/js/main.933461a2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.400796ec.chunk.css": "/static/css/2.400796ec.chunk.css",
+    "static/js/2.3c097907.chunk.js": "/static/js/2.3c097907.chunk.js",
+    "static/js/2.3c097907.chunk.js.map": "/static/js/2.3c097907.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.01530867970356fc4d64f79ce66cd6e5.js": "/precache-manifest.01530867970356fc4d64f79ce66cd6e5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.400796ec.chunk.css.map": "/static/css/2.400796ec.chunk.css.map",
+    "static/css/main.02425aff.chunk.css.map": "/static/css/main.02425aff.chunk.css.map",
+    "static/media/index.css": "/static/media/frederic-perez-bLY3k1gonWE-unsplash.63bf4c47.jpg",
+    "static/media/weather-icons.css": "/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  }
+}
